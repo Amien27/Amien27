@@ -28,3 +28,6 @@ Fresh graduate building practical skills in claims modeling, forecasting, and da
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/amienhuwaydy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amienhuwaydy411@gmail.com)
+
+![Projects](https://img.shields.io/badge/🚀_PROJECTS-6C63FF?style=for-the-badge)
+![Contact](https://img.shields.io/badge/📫_CONTACT-FF6584?style=for-the-badge)
